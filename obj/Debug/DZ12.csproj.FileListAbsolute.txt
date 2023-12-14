@@ -1,0 +1,7 @@
+D:\C#\DZ12\DZ12\bin\Debug\DZ12.exe.config
+D:\C#\DZ12\DZ12\bin\Debug\DZ12.exe
+D:\C#\DZ12\DZ12\bin\Debug\DZ12.pdb
+D:\C#\DZ12\DZ12\obj\Debug\DZ12.csproj.AssemblyReference.cache
+D:\C#\DZ12\DZ12\obj\Debug\DZ12.csproj.CoreCompileInputs.cache
+D:\C#\DZ12\DZ12\obj\Debug\DZ12.exe
+D:\C#\DZ12\DZ12\obj\Debug\DZ12.pdb
