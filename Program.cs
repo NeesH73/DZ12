@@ -51,7 +51,7 @@ namespace DZ12
 
             Console.WriteLine("Зад. 2: Вычисление факториала должно проходить асинхронно, вычисление возведения в квадрат синхронно.");
 
-            int number = 5;
+            int number = int.Parse(Console.ReadLine());
 
             int square = Square(number);
             Console.WriteLine($"{number}^2 = {square}");
